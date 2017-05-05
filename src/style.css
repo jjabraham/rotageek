@@ -1,0 +1,44 @@
+.App {
+  font-family: 'Roboto', sans-serif;
+  color: #222;
+  margin: 0 10px 0 10px;
+  padding: 10px;
+}
+
+.button-standard {
+  color: white;
+  border-radius: 0px;
+  background: #3e759e;
+  margin-right: 10px;
+}
+
+.alert {
+  padding: 15px;
+  margin: 10px 0 20px 0;
+  border: 1px solid transparent;
+  border-radius: 0px;
+}
+
+.alert-success {
+  color: #3c763d;
+  background-color: #dff0d8;
+  border-color: ##b2dba1;
+}
+
+.alert-info {
+  color: #31708f;
+  background-color: #d9edf7;
+  border-color: #9acfea;
+}
+
+.alert-warning {
+  color: #8a6d3b;
+  background-color: #fcf8e3;
+  border-color: #f5e79e;
+}
+
+.alert-danger {
+  color: #a94442;
+  background-color: #f2dede;
+  border-color: #dca7a7;
+}
